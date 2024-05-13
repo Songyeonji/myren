@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myren/static/css/main.968f5596.css",
+    "main.js": "/myren/static/js/main.f3fdbf25.js",
+    "index.html": "/myren/index.html",
+    "main.968f5596.css.map": "/myren/static/css/main.968f5596.css.map",
+    "main.f3fdbf25.js.map": "/myren/static/js/main.f3fdbf25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.968f5596.css",
+    "static/js/main.f3fdbf25.js"
+  ]
+}
