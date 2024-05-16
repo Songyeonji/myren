@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/myren/static/css/main.a43a5df3.css",
-    "main.js": "/myren/static/js/main.7018d9e5.js",
+    "main.js": "/myren/static/js/main.ef843236.js",
     "index.html": "/myren/index.html",
     "main.a43a5df3.css.map": "/myren/static/css/main.a43a5df3.css.map",
-    "main.7018d9e5.js.map": "/myren/static/js/main.7018d9e5.js.map"
+    "main.ef843236.js.map": "/myren/static/js/main.ef843236.js.map"
   },
   "entrypoints": [
     "static/css/main.a43a5df3.css",
-    "static/js/main.7018d9e5.js"
+    "static/js/main.ef843236.js"
   ]
 }
